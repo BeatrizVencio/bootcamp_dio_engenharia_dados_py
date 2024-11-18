@@ -214,4 +214,4 @@ class Cachorro:
 
 ### Materiais Complementares
 
-[Programação Orientada a Objetos Com Python.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f9b2a52-e80e-40bf-9263-c2b21d7b302c/5d3855c3-2a3f-4d06-8233-dc33a528722a/Programao_Orientada_a_Objetos_Com_Python.pdf)
+[Programação Orientada a Objetos Com Python.pdf](https://github.com/BeatrizVencio/bootcamp_dio_engenharia_dados_py/blob/main/3-%20Programação%20Orientada%20a%20Objetos%20com%20Python/1-%20Introdução%20à%20Programação%20Orientada%20a%20Objetos%20(POO)/materiais%20complementares/Programação%20Orientada%20a%20Objetos%20Com%20Python.pdf)
