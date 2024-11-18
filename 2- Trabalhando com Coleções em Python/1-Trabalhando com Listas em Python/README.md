@@ -221,4 +221,4 @@ A segunda aula da série "Listas em Python" mergulha nos métodos que a classe `
 
 ### Materiais Complementares
 
-[Listas.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f9b2a52-e80e-40bf-9263-c2b21d7b302c/40043bc3-214c-4bd4-985f-97c9110b08d2/Listas.pdf)
+[Listas.pdf](https://github.com/BeatrizVencio/bootcamp_dio_engenharia_dados_py/blob/main/2-%20Trabalhando%20com%20Coleções%20em%20Python/1-Trabalhando%20com%20Listas%20em%20Python/Materiais%20Complementares/Listas.pdf)
