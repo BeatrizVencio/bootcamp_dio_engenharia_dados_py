@@ -129,8 +129,8 @@ Esta aula nos apresenta as **estruturas de repetição**, ferramentas poderosas 
 
 ### Materiais Complementares
 
-[1- Indentação e blocos.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f9b2a52-e80e-40bf-9263-c2b21d7b302c/ab3773f6-930f-4511-ba27-a2bc3e7d48d5/1-_Indentao_e_blocos.pdf)
+[1- Indentação e blocos.pdf](https://github.com/BeatrizVencio/bootcamp_dio_engenharia_dados_py/blob/main/1-%20Sintaxe%20Básica%20com%20Python/2-%20Estruturas%20Condicionais%20e%20de%20Repetição%20em%20Python/Materiais%20Complementares/1-%20Indentação%20e%20blocos.pdf)
 
-[2- Estruturas condicionais.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f9b2a52-e80e-40bf-9263-c2b21d7b302c/1e9126cf-1e18-4d9a-985b-45930d4699e2/2-_Estruturas_condicionais.pdf)
+[2- Estruturas condicionais.pdf](https://github.com/BeatrizVencio/bootcamp_dio_engenharia_dados_py/blob/main/1-%20Sintaxe%20Básica%20com%20Python/2-%20Estruturas%20Condicionais%20e%20de%20Repetição%20em%20Python/Materiais%20Complementares/2-%20Estruturas%20condicionais.pdf)
 
-[3- Estruturas de repetição.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f9b2a52-e80e-40bf-9263-c2b21d7b302c/a17aec4f-d535-4c42-86c6-dda7ecfd951f/3-_Estruturas_de_repetio.pdf)
+[3- Estruturas de repetição.pdf](https://github.com/BeatrizVencio/bootcamp_dio_engenharia_dados_py/blob/main/1-%20Sintaxe%20Básica%20com%20Python/2-%20Estruturas%20Condicionais%20e%20de%20Repetição%20em%20Python/Materiais%20Complementares/3-%20Estruturas%20de%20repetição.pdf)
