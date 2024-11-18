@@ -208,4 +208,4 @@ A segunda aula nos apresenta métodos úteis da classe `dict` para manipular e t
 
 ### Materiais Complementares
 
-[Dicionários.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f9b2a52-e80e-40bf-9263-c2b21d7b302c/2a84cc9b-52fb-4428-8587-f5fc930b8285/Dicionrios.pdf)
+[Dicionários.pdf](https://github.com/BeatrizVencio/bootcamp_dio_engenharia_dados_py/blob/main/2-%20Trabalhando%20com%20Coleções%20em%20Python/4-%20Aprendendo%20a%20Utilizar%20Dicionários%20em%20Python/Materiais%20Complementares/Dicionários.pdf)
