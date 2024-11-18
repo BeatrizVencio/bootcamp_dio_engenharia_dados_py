@@ -128,4 +128,4 @@ print(conjunto_carros)
 
 ### Materiais Complementares
 
-[Conjuntos.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f9b2a52-e80e-40bf-9263-c2b21d7b302c/cd0c608e-d7f4-4e01-93d8-29b8059a7381/Conjuntos.pdf)
+[Conjuntos.pdf](https://github.com/BeatrizVencio/bootcamp_dio_engenharia_dados_py/blob/main/2-%20Trabalhando%20com%20Coleções%20em%20Python/3-%20Explorando%20Conjuntos%20em%20Python/Materiais%20Complementares/Conjuntos.pdf)
