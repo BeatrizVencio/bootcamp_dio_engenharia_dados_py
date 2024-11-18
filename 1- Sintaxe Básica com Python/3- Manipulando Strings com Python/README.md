@@ -209,4 +209,4 @@ print(menu)
 
 ### Materiais Complementares
 
-[String e fatiamento.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f9b2a52-e80e-40bf-9263-c2b21d7b302c/a60313b5-0609-4c09-b83d-ba6a5a4b082b/String_e_fatiamento.pdf)
+[String e fatiamento.pdf](https://github.com/BeatrizVencio/bootcamp_dio_engenharia_dados_py/blob/main/1-%20Sintaxe%20Básica%20com%20Python/3-%20Manipulando%20Strings%20com%20Python/Materiais%20Complementares/String%20e%20fatiamento.pdf)
