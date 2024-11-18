@@ -329,14 +329,14 @@ print(200 in saques)
 
 ### Materiais Complementares
 
-[1- Operadores aritméticos.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f9b2a52-e80e-40bf-9263-c2b21d7b302c/48160b16-2519-4524-9008-fea4aa4c418d/1-_Operadores_aritmticos.pdf)
+[1- Operadores aritméticos.pdf](https://github.com/BeatrizVencio/bootcamp_dio_engenharia_dados_py/blob/main/1-%20Sintaxe%20Básica%20com%20Python/1-%20Tipos%20de%20Operadores%20com%20Python/Materiais%20Complementares/1-%20Operadores%20aritméticos.pdf)
 
-[2- Operadores de comparação.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f9b2a52-e80e-40bf-9263-c2b21d7b302c/d9947e81-dc3d-4dce-9f68-18c98b9d6717/2-_Operadores_de_comparao.pdf)
+[2- Operadores de comparação.pdf](https://github.com/BeatrizVencio/bootcamp_dio_engenharia_dados_py/blob/main/1-%20Sintaxe%20Básica%20com%20Python/1-%20Tipos%20de%20Operadores%20com%20Python/Materiais%20Complementares/2-%20Operadores%20de%20comparação.pdf)
 
-[3- Operadores de atribuição.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f9b2a52-e80e-40bf-9263-c2b21d7b302c/e8007349-8121-4425-b0b6-90aed05cd802/3-_Operadores_de_atribuio.pdf)
+[3- Operadores de atribuição.pdf](https://github.com/BeatrizVencio/bootcamp_dio_engenharia_dados_py/blob/main/1-%20Sintaxe%20Básica%20com%20Python/1-%20Tipos%20de%20Operadores%20com%20Python/Materiais%20Complementares/3-%20Operadores%20de%20atribuição.pdf)
 
-[4- Operadores lógicos.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f9b2a52-e80e-40bf-9263-c2b21d7b302c/cadb3157-cc97-4b8c-849a-4089449f4873/4-_Operadores_lgicos.pdf)
+[4- Operadores lógicos.pdf](https://github.com/BeatrizVencio/bootcamp_dio_engenharia_dados_py/blob/main/1-%20Sintaxe%20Básica%20com%20Python/1-%20Tipos%20de%20Operadores%20com%20Python/Materiais%20Complementares/4-%20Operadores%20lógicos.pdf)
 
-[5- Operadores de identidade.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f9b2a52-e80e-40bf-9263-c2b21d7b302c/7cb945c1-8e93-4596-8758-3e9fa2a3866e/5-_Operadores_de_identidade.pdf)
+[5- Operadores de identidade.pdf](https://github.com/BeatrizVencio/bootcamp_dio_engenharia_dados_py/blob/main/1-%20Sintaxe%20Básica%20com%20Python/1-%20Tipos%20de%20Operadores%20com%20Python/Materiais%20Complementares/5-%20Operadores%20de%20identidade.pdf)
 
-[6- Operadores de associação.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f9b2a52-e80e-40bf-9263-c2b21d7b302c/0eff47c1-a86a-4dd8-90fd-6b8f6ed9d525/6-_Operadores_de_associao.pdf)
+[6- Operadores de associação.pdf](https://github.com/BeatrizVencio/bootcamp_dio_engenharia_dados_py/blob/main/1-%20Sintaxe%20Básica%20com%20Python/1-%20Tipos%20de%20Operadores%20com%20Python/Materiais%20Complementares/6-%20Operadores%20de%20associação.pdf)
