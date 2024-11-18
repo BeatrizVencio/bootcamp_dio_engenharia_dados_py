@@ -107,4 +107,4 @@ print(matriz[1][2])
 
 ### Materiais Complementares
 
-[Tuplas.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f9b2a52-e80e-40bf-9263-c2b21d7b302c/f26d125f-a759-4711-9f4d-09bc7a7fa3d1/Tuplas.pdf)
+[Tuplas.pdf](https://github.com/BeatrizVencio/bootcamp_dio_engenharia_dados_py/blob/main/2-%20Trabalhando%20com%20Coleções%20em%20Python/2-%20Conhecendo%20Tuplas%20em%20Python/Materiais%20Complementares/Tuplas.pdf)
