@@ -179,4 +179,4 @@ print(data_e_hora_utc) # Saída: 2023-07-19 18:23:45.196001+00:00 (data e hora e
 
 ### Materiais Complementares
 
-[data e hora.pptx](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f9b2a52-e80e-40bf-9263-c2b21d7b302c/80f574e2-727e-4bf9-8eda-f19bdee32938/data_e_hora.pptx)
+[data e hora.pptx](https://github.com/BeatrizVencio/bootcamp_dio_engenharia_dados_py/blob/main/2-%20Trabalhando%20com%20Coleções%20em%20Python/5-%20Lidando%20com%20Data%2C%20Hora%20e%20Fuso%20Horário%20no%20Python/Materiais%20Complementares/data%20e%20hora.pptx)
